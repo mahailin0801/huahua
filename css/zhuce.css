@@ -1,0 +1,232 @@
+.logo,.main,.footer{
+	width: 1270px;
+	margin: 0 auto;
+}
+
+
+.logo_bb{
+	width: 100%;
+	background: white;
+}
+.logo{
+	height: 105px;
+}
+.logo img{
+	margin: 45px 0 0 140px;
+}
+/*logo*/
+.main_bb{
+	width: 100%;
+	background: white;
+}
+.main{
+	height: 465px;
+}
+
+.mleft{
+	width: 659px;
+	height: 465px;
+	float: left;
+}
+.mleft>h2{
+	font-weight: 700;
+	font-size: 18px;
+	margin: 50px 0 0 210px;
+}
+.mleft_01{
+	width: 422px;
+	height: 190px;
+	margin: 28px 0 0 220px;
+	border-bottom: 1px dashed #DEE1FF;
+}
+.mleft_ul>li{
+	width: 210px;
+	height: 42px;
+	float: left;
+	margin-bottom: 22px;
+}
+.mleft_ul img{
+	vertical-align: middle;
+}
+.mleft_ul>li span{
+	margin-left: 5px;
+	font-size: 14px;
+	color: #757575;
+}
+.mleft_02{
+	width: 395px;
+	height: 95px;
+	margin: 27px 0 0 210px;
+}
+.mleft_02>h3{
+	font-weight: 700;
+	font-size: 18px;
+}
+.mleft_021{
+	margin: 24px 0 0 22px;
+}
+.mleft_021 span{
+	color: #555555;
+}
+.mleft_021 a{
+	color: #006699;
+	font-weight: 700;
+	font-size: 14px;
+}
+.btn_dl{
+	font-weight: 700;
+}
+.mright{
+	width: 611px;
+	height: 465px;
+	float: left;
+}
+.mright form{
+	width: 400px;
+	height: 390px;
+	margin: 35px 0 0 1px;
+	border: 1px solid #B5B5B5;
+	background: #f9f9f9;
+}
+
+
+
+.mright form h2{
+	font-size: 18px;
+	font-weight: 700;
+	margin:15px 0 0 25px;
+}
+.mright form input{
+	margin-left: 10px;
+}
+.mright .iname,.ipwd,.icpwd,.iemail{
+	width: 220px;
+	height: 25px;
+	border: 1px solid #B5B5B5;
+}
+.mright .iname{margin-top: 22px;}
+.ispan{
+	width: 200px;
+	height: 23px;
+	margin-left: 111px;
+	color: red;
+	font-size:14px ;
+	display: inline-block;
+	overflow: hidden;
+}
+.iyan{
+	/*margin-top: 22px;*/
+	width: 65px;
+	height: 25px;
+	border: 1px solid #B5B5B5;
+}
+.mright label{
+	color:#757575;
+	font-size: 14px;
+	text-align: right;
+	width: 56px;
+	display: inline-block;
+	margin-left:45px ;
+}
+.iyan_tu{
+	width: 88px;
+	height: 33px;
+	background:#cdc6b6;
+	display: inline-block;
+	margin-left: 10px;
+	vertical-align: middle;
+	font-size: 18px;
+	text-align: center;
+	line-height: 33px;
+	letter-spacing: 4px;
+	font-weight: 700;
+}
+.yspan{
+	color: #999999;
+	margin-left:5px;
+	cursor: pointer;
+}
+.mright form .btn{
+	width: 100px;
+	height: 32px;
+	border-style: none;
+	border-radius:3px ;
+	background: #f08300;
+	outline: none;
+	/*margin-top: 25px;*/
+	margin-left: 98px;
+	font-weight:700 ;
+	color: white;
+	box-shadow: 0px 2px 0px #c55300;
+	cursor: pointer;
+}
+.checked{
+	vertical-align: middle;
+}
+.cspan{
+	color: #333333;
+}
+.mright a{
+	font-weight: 700;
+	color: #ce3801;
+}
+
+/*main*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer_bb{
+	width: 100%;
+	background: #f5f5f5;
+}
+.footer{
+	height:110px;
+	background: #f5f5f5;
+	text-align: center;
+	overflow: hidden;
+}
+.footer a{
+	color: #333333;
+}
+.menu{
+	line-height: 42px;
+	margin-top: 20px;
+}
+.m1{
+	text-decoration: underline;
+}
+/*footer*/
+
+.zixun{
+	width: 70px;
+	height: 100px;
+	background: #378fe5;
+	position: fixed;
+	right: 0;
+	top: 400px;
+	z-index: 20;
+}
+.zixun>ul{
+	text-align: center;
+	margin-top: 10px;
+}
+.zixun>ul li{
+	margin-top: 20px;
+}
+.zixun>ul a{
+	color: white;
+}

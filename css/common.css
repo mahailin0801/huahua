@@ -1,0 +1,8 @@
+body,p,h2,h2,h3,h4,h5,h6,ul,li,ol,dl,dt,dd,fieldset,figure{margin:0; padding:0px;}
+a{ text-decoration: none;}
+ul,li,ol{list-style: none;color:#333;}
+body{font-size: 12px; font=font-family: "微软雅黑";}
+body,html{height:100%;}
+textarea{resize: none;}
+iframe,img{border:none;}
+.clear{width:0; height:0; overflow: hidden; clear:both;}
